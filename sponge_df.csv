@@ -1,0 +1,506 @@
+Episode #,Title,Rating
+0,Help Wanted,8.7
+1,Reef Blower,8.7
+2,Tea at the Treedome,8.7
+3,BubbleStand,8.5
+4,Ripped Pants,8.5
+5,Jellyfishing,8.4
+6,Plankton!,8.4
+7,Naughty Nautical Neighbors,8.5
+8,Boating School,8.5
+9,Pizza Delivery,9.1
+10,Home Sweet Pineapple,9.1
+11,Mermaidman and Barnacleboy,8.5
+12,Pickles,8.5
+13,Hall Monitor,8.5
+14,Jellyfish Jam,8.5
+15,Nature Pants,8.4
+16,Opposite Day,8.4
+17,Sandy's Rocket,8.2
+18,Squeaky Boots,8.2
+19,Culture Shock,8.7
+20,F.U.N.,8.7
+21,MuscleBob BuffPants,8.4
+22,Squidward the Unfriendly Ghost,8.4
+23,Scaredy Pants,8.3
+24,I Was a Teenage Gary,8.3
+25,SB-129,9.1
+26,Karate Choppers,9.1
+27,Sleepy Time,8.7
+28,Suds,8.7
+29,The Chaperone,8.3
+30,Employee of the Month,8.3
+31,Valentine's Day,8.4
+32,The Paper,8.4
+33,Arrgh!,9.2
+34,Rock Bottom,9.2
+35,Texas,8.4
+36,Walking Small,8.4
+37,Fools in April,8.4
+38,Neptune's Spatula,8.4
+39,Something Smells,8.6
+40,Bossy Boots,8.6
+41,Big Pink Loser,8.8
+42,Bubble Buddy,8.8
+43,Christmas Who?,8.7
+44,Hooky,8.7
+45,Mermaidman and Barnacleboy II,8.7
+46,Dying for Pie,9.2
+47,Imitation Krabs,9.2
+48,Your Shoe's Untied,8.8
+49,Squid's Day Off,8.8
+50,Wormy,8.7
+51,Patty Hype,8.7
+52,Shanghaied,9.0
+53,Gary Takes a Bath,9.0
+54,No Free Rides,8.4
+55,I'm Your Biggest Fanatic,8.4
+56,Grandma's Kisses,8.6
+57,Squidville,8.6
+58,PreHibernation Week,8.9
+59,Life of Crime,8.9
+60,Pressure,8.5
+61,The Smoking Peanut,8.5
+62,Survival of the Idiots,8.7
+63,Dumped,8.7
+64,The Secret Box,9.7
+65,Band Geeks,9.7
+66,Mermaidman and Barnacleboy III,8.7
+67,Squirrel Jokes,8.7
+68,Sailor Mouth,9.2
+69,Artist Unknown,9.2
+70,Jellyfish Hunter,8.9
+71,The Fry Cook Games,8.9
+72,Just One Bite,9.0
+73,The Bully,9.0
+74,Squid on Strike,8.7
+75,"Sandy, SpongeBob, and the Worm",8.7
+76,Procrastination,8.5
+77,I'm with Stupid,8.5
+78,Welcome to the Chum Bucket,9.2
+79,Frankendoodle,9.2
+80,Mermaidman and Barnacleboy IV,8.6
+81,Doing Time,8.6
+82,Graveyard Shift,9.3
+83,Krusty Love,9.3
+84,Snowball Effect,9.0
+85,One Krab's Trash,9.0
+86,Nasty Patty,9.5
+87,Idiot Box,9.5
+88,As Seen on TV,8.7
+89,Can You Spare a Dime?,8.7
+90,Club SpongeBob,9.1
+91,My Pretty Seahorse,9.1
+92,No Weenies Allowed,9.0
+93,Squilliam Returns,9.0
+94,The Algae's Always Greener,8.7
+95,SpongeGuard on Duty,8.7
+96,Krab Borg,8.9
+97,Rock-a-Bye Bivalve,8.9
+98,Wet Painters,9.5
+99,Krusty Krab Training Video,9.5
+100,SpongeBob's House Party (Party Pooper Pants),7.7
+101,Chocolate with Nuts,9.5
+102,Mermaidman and Barnacleboy V,9.5
+103,New Student Starfish,8.6
+104,Clams,8.6
+105,The Great Snail Race,8.4
+106,Mid-Life Crustacean,8.4
+107,Born Again Krabs,8.6
+108,I Had an Accident,8.6
+109,The Sponge Who Could Fly,7.8
+110,SpongeBob Meets the Strangler,9.0
+111,Pranks a Lot,9.0
+112,Missing Identity,8.5
+113,Plankton's Army,8.5
+114,SpongeBob B.C. (Before Comedy) (Ugh),8.2
+115,Krabby Land,9.0
+116,The Camping Episode,9.0
+117,Fear of a Krabby Patty,7.8
+118,Shell of a Man,7.8
+119,The Lost Mattress,8.1
+120,Krabs vs. Plankton,8.1
+121,Skill Crane,7.3
+122,Good Neighbors,7.3
+123,The Endless Summer,7.3
+124,Selling Out,7.5
+125,Funny Pants,7.5
+126,Enemy In-Law,7.7
+127,Mermaidman and Barnacleboy VI: The Motion Picture,7.7
+128,Patrick SmartPants,7.4
+129,SquidBob TentaclePants,7.4
+130,Have You Seen This Snail?,8.3
+131,Dunces and Dragons,7.8
+132,Krusty Towers,8.5
+133,"Mrs. Puff, You're Fired",8.5
+134,Chimps Ahoy,7.3
+135,Ghost Host,7.3
+136,Whale of a Birthday,7.2
+137,Karate Island,7.2
+138,All That Glitters,7.1
+139,Wishing You Well,7.1
+140,New Leaf,7.3
+141,Once Bitten,7.3
+142,Squidtastic Voyage,7.0
+143,That's No Lady,7.0
+144,Bummer Vacation,7.1
+145,Wigstruck,7.1
+146,Best Day Ever,6.7
+147,The Gift of Gum,6.7
+148,The Thing,7.0
+149,Hocus Pocus,7.0
+150,The Pink Purloiner,7.0
+151,Squid Wood,7.0
+152,Driven to Tears,6.9
+153,Rule of Dumb,6.9
+154,Rise and Shine,6.3
+155,Waiting,6.3
+156,Fungus Among Us,6.3
+157,The Krusty Sponge,7.4
+158,Sing a Song of Patrick,7.4
+159,Born to Be Wild,7.5
+160,Best Frenemies,7.5
+161,Friend or Foe,7.9
+162,Spy Buddies,7.0
+163,Boat Smarts,7.0
+164,Good Ol' Whatshisname,7.0
+165,New Digs,7.9
+166,Krabs á la Mode,7.9
+167,To Love a Patty,5.7
+168,Breath of Fresh Squidward,5.7
+169,Roller Cowards,7.8
+170,"Bucket, Sweet Bucket",7.8
+171,The Original Fry Cook,7.1
+172,Night Light,7.1
+173,Money Talks,6.8
+174,SpongeBob vs. The Patty Gadget,6.8
+175,Slimy Dancing,6.8
+176,A Flea in Her Dome,6.9
+177,The Donut of Shame,6.9
+178,The Krusty Plate,6.9
+179,Picture Day,6.5
+180,Pat No Pay,6.5
+181,Blackjack,6.5
+182,Blackened Sponge,7.1
+183,Mermaidman vs. SpongeBob,7.1
+184,Goo Goo Gas,7.0
+185,Le Big Switch,7.0
+186,Atlantis SquarePantis,5.9
+187,The Two Faces of Squidward,7.3
+188,SpongeHenge,7.3
+189,Banned in Bikini Bottom,6.6
+190,Stanley S. SquarePants,6.6
+191,"20,000 Patties Under the Sea",7.0
+192,The Battle of Bikini Bottom,7.0
+193,The Inmates of Summer,7.5
+194,To Save a Squirrel,7.5
+195,House Fancy,6.7
+196,Krabby Road,6.7
+197,Not Normal,7.1
+198,Gone,7.1
+199,Spongicus,6.9
+200,Suction Cup Symphony,6.9
+201,Penny Foolish,6.2
+202,Nautical Novice,6.2
+203,Pest of the West,7.1
+204,The Splinter,3.9
+205,Slide Whistle Stooges,3.9
+206,Giant Squidward,6.5
+207,No Nose Knows,6.5
+208,A Life in a Day,6.7
+209,Sun Bleached,6.7
+210,The Patty Caper,6.6
+211,Plankton's Regular,6.6
+212,Boating Buddies,6.1
+213,The Krabby Kronicle,6.1
+214,Whatever Happened to SpongeBob? (WhoBob WhatPants),6.2
+215,Dear Vikings,6.1
+216,Ditchin',6.1
+217,Krusty Krushers,6.5
+218,The Card,6.5
+219,Porous Pockets,5.7
+220,Choir Boys,5.7
+221,The Slumber Party,6.7
+222,Grooming Gary,6.7
+223,Shuffleboarding,5.5
+224,Professor Squidward,5.5
+225,Grandpappy the Pirate,6.4
+226,Cephalopod Lodge,6.4
+227,Sand Castles in the Sand,7.5
+228,Shell Shocked,7.5
+229,No Hat for Pat,6.7
+230,Toy Store of Doom,6.7
+231,Pet or Pests,5.4
+232,Komputer Overload,5.4
+233,SpongeBob SquarePants vs. The Big One,7.3
+234,Pineapple Fever,6.8
+235,Chum Caverns,6.8
+236,Chum Bucket Supreme,7.1
+237,Single Cell Anniversary,7.1
+238,Squid's Visit,5.8
+239,To Squarepants or Not to Squarepants,5.8
+240,Gullible Pants,6.4
+241,Overbooked,6.4
+242,Square Roots: The Story of SpongeBob SquarePants,7.7
+243,Growth Spout,4.0
+244,Stuck in the Wringer,4.0
+245,Someone's in the Kitchen with Sandy,5.6
+246,The Inside Job,5.6
+247,Tentacle-Vision,6.5
+248,I Heart Dancing,6.5
+249,The Curse of Bikini Bottom,7.4
+250,Squidward in Clarinetland,7.4
+251,Truth or Square,5.8
+252,Greasy Buffoons,6.2
+253,Model Sponge,6.2
+254,Keep Bikini Bottom Beautiful,3.2
+255,A Pal for Gary,3.2
+256,Buried in Time,7.1
+257,Enchanted Tiki Dreams,7.1
+258,One Coarse Meal,3.5
+259,Gary in Love,3.5
+260,The Play's the Thing,5.7
+261,Rodeo Daze,5.7
+262,Back to the Past,7.3
+263,The Bad Guy Club for Villains,7.3
+264,A Day Without Tears,5.1
+265,Summer Job,5.1
+266,SpongeBob's Last Stand,6.7
+267,The Clash of Triton,5.1
+268,Gramma's Secret Recipe,5.7
+269,The Cent of Money,5.7
+270,That Sinking Feeling,6.6
+271,Karate Star,6.6
+272,You Don't Know Sponge,6.2
+273,Tunnel of Glove,6.2
+274,Hide and Then What Happens?,6.2
+275,Shellback Shenanigans,6.2
+276,"Yours, Mine and Mine",5.8
+277,Kracked Krabs,5.8
+278,The Masterpiece,6.7
+279,Whelk Attack,6.7
+280,Krusty Dogs,6.7
+281,The Wreck of the Mauna Loa,6.7
+282,The Great Patty Caper,6.6
+283,The Abrasive Side,7.1
+284,Earworm,7.1
+285,The Monster Who Came to Bikini Bottom,6.7
+286,Welcome to the Bikini Bottom Triangle,6.7
+287,Trenchbillies,5.2
+288,Sponge-Cano!,5.2
+289,New Fish in Town,6.4
+290,Love That Squid,6.4
+291,Big Sister Sam,5.8
+292,Perfect Chemistry,5.8
+293,A Friendly Game,6.6
+294,Sentimental Sponge,6.6
+295,Squidward's School for Grown Ups,6.2
+296,Oral Report,6.2
+297,The Curse of the Hex,6.3
+298,The Main Drain,6.3
+299,Drive Thru,6.8
+300,The Hot Shot,6.8
+301,Accidents Will Happen,6.9
+302,The Other Patty,6.9
+303,Frozen Face-Off,7.2
+304,Sweet and Sour Squid,6.2
+305,The Googly Artiste,6.2
+306,Barnacle Face,4.9
+307,Pet Sitter Pat,4.9
+308,Mermaid Man Begins,7.3
+309,Plankton's Good Eye,7.3
+310,House Sittin' for Sandy,5.3
+311,Smoothe Jazz at Bikini Bottom,5.3
+312,Ghoul Fools,6.8
+313,Patrick's Staycation,6.1
+314,Walking the Plankton,6.1
+315,Mooncation,6.6
+316,Mr. Krabs Takes a Vacation,6.6
+317,SquarePants Family Vacation,5.8
+318,Sandy's Vacation in Ruins,7.3
+319,The Krabby Patty That Ate Bikini Bottom,6.1
+320,Bubble Buddy Returns,6.1
+321,The Way of the Sponge,6.2
+322,Bubble Troubles,6.2
+323,Are You Happy Now?,6.3
+324,Planet of the Jellyfish,6.3
+325,Restraining SpongeBob,5.9
+326,Fiasco!,5.9
+327,Face Freeze!,5.1
+328,Glove World R.I.P.,5.1
+329,Free Samples,6.4
+330,Home Sweet Rubble,6.4
+331,Karen 2.0,6.7
+332,InSpongeiac,6.7
+333,Treats!,6.7
+334,For Here or to Go,6.7
+335,Squiditis,4.4
+336,Demolition Doofus,4.4
+337,Extreme Spots,6.4
+338,Squirrel Record,6.4
+339,License to Milkshake,5.9
+340,Squid Baby,5.9
+341,Hello Bikini Bottom!,6.9
+342,Patrick-Man!,6.6
+343,Gary's New Toy,6.6
+344,The Good Krabby Name,6.7
+345,Move It or Lose It,6.7
+346,Super Evil Aquatic Villain Team Up Is Go!,6.9
+347,Chum Fricassee,6.9
+348,"Eek, an Urchin!",6.5
+349,Squid Defense,6.5
+350,It's a SpongeBob Christmas!,7.2
+351,Little Yellow Book,5.2
+352,Bumper to Bumper,5.2
+353,Safe Deposit Krabs,7.6
+354,Plankton's Pet,7.6
+355,Jailbreak!,7.3
+356,Evil Spatula,7.3
+357,Don't Look Now,7.5
+358,Séance Shméance,7.5
+359,"SpongeBob, You're Fired",4.6
+360,It Came from Goo Lagoon,6.9
+361,Kenny the Cat,6.6
+362,Yeti Krabs,6.6
+363,Lost in Bikini Bottom,7.2
+364,Tutor Sauce,7.2
+365,Squid Plus One,7.4
+366,The Executive Treatment,7.4
+367,Company Picnic,7.4
+368,Pull Up a Barrel,7.4
+369,Sanctuary!,7.4
+370,What's Eating Patrick?,7.4
+371,Patrick! The Game,7.6
+372,The Sewers of Bikini Bottom,7.6
+373,SpongeBob LongPants,7.1
+374,Larry's Gym,7.1
+375,Mall Girl Pearl,7.5
+376,Two Thumbs Down,7.5
+377,The Fish Bowl,6.8
+378,Married to Money,6.8
+379,Sharks vs. Pods,7.5
+380,CopyBob DittoPants,7.5
+381,Sold!,7.5
+382,Lame and Fortune,7.5
+383,Pineapple Invasion,7.5
+384,Salsa Imbecilicus,7.5
+385,Sandy's Nutmare,7.8
+386,Bulletin Board,7.8
+387,Food Con Castaways,7.4
+388,Snail Mail,7.4
+389,Mutiny on the Krusty,7.4
+390,The Whole Tooth,7.4
+391,Whirly Brains,6.8
+392,MermaidPants,6.8
+393,"Goodbye, Krabby Patty?",7.8
+394,Mimic Madness,7.7
+395,House Worming,7.7
+396,Snooze You Lose,7.5
+397,Krusty Katering,7.5
+398,SpongeBob's Place,7.4
+399,Plankton Gets the Boot,7.4
+400,Unreal Estate,7.6
+401,Code Yellow,7.6
+402,Life Insurance,7.4
+403,Burst Your Bubble,7.4
+404,Plankton Retires,7.2
+405,Trident Trouble,7.2
+406,The Getaway,7.4
+407,Lost and Found,7.4
+408,Patrick's Coupon,5.6
+409,Out of the Picture,5.6
+410,Spot Returns,7.4
+411,The Check-Up,7.4
+412,The Incredible Shrinking Sponge,6.9
+413,Sportz?,6.9
+414,Spin the Bottle,7.0
+415,There's a Sponge in My Soup,7.0
+416,Feral Friends,7.4
+417,Don't Wake Patrick,7.4
+418,Cave Dwelling Sponge,6.9
+419,The Clam Whisperer,6.9
+420,Man Ray Returns,7.0
+421,Larry the Floor Manager,7.0
+422,The Legend of Boo-Kini Bottom,7.7
+423,Krabby Patty Creature Feature,7.2
+424,Teacher's Pests,7.2
+425,No Pictures Please,7.4
+426,Stuck on the Roof,7.4
+427,Sanitation Insanity,6.1
+428,Bunny Hunt,6.1
+429,Squid Noir,7.8
+430,Scavenger Pants,7.8
+431,Cuddle E. Hugs,5.8
+432,Pat the Horse,5.8
+433,Chatterbox Gary,6.7
+434,Don't Feed the Clowns,6.7
+435,Drive Happy,7.0
+436,Old Man Patrick,7.0
+437,Fun-Sized Friends,6.8
+438,Grandmum's the Word,6.8
+439,Doodle Dimension,7.1
+440,Moving Bubble Bass,7.1
+441,High Sea Diving,7.1
+442,Bottle Burglars,7.1
+443,My Leg!,4.7
+444,Ink Lemonade,4.7
+445,Mustard O' Mine,7.5
+446,Shopping List,7.5
+447,Whale Watching,7.5
+448,Krusty Kleaners,7.5
+449,Patnocchio,6.4
+450,ChefBob,6.4
+451,Plankton Paranoia,6.6
+452,Library Cards,6.6
+453,Call the Cops,5.9
+454,Surf n' Turf,5.9
+455,The Grill is Gone,6.7
+456,The Night Patty,6.7
+457,Appointment TV,7.5
+458,Karen's Virus,7.5
+459,Bubble Town,6.2
+460,Girls' Night Out,6.2
+461,FarmerBob,6.2
+462,Gary & Spot,6.2
+463,Squirrel Jelly,7.0
+464,The String,7.0
+465,Goons on the Moon,7.4
+466,The Nitwitting,4.6
+467,The Ballad of Filthy Muck,4.6
+468,The Krusty Slammer,6.5
+469,Pineapple RV,6.5
+470,Gary's Got Legs,7.2
+471,King Plankton,7.2
+472,Plankton's Old Chum,7.3
+473,Stormy Weather,7.3
+474,Sandy's Nutty Nieces,7.4
+475,Insecurity Guards,7.4
+476,Broken Alarm,7.6
+477,Karen's Baby,7.6
+478,Shell Games,7.0
+479,Senior Discount,7.0
+480,SpongeBob's Big Birthday Blowout,8.7
+481,The Krusty Bucket,7.7
+482,Squid's on a Bus,7.7
+483,Handemonium,6.9
+484,Breakin',6.9
+485,Mind the Gap,7.9
+486,Dirty Bubble Returns,7.9
+487,SpongeBob in RandomLand,6.2
+488,SpongeBob's Bad Habit,6.2
+489,Boss for a Day,7.4
+490,The Goofy Newbie,7.4
+491,The Ghost of Plankton,7.1
+492,My Two Krabses,7.1
+493,A Cabin in the Kelp,6.7
+494,The Hankering,6.7
+495,Patchy's Playlist,8.0
+496,Escape from Beneath Glove World,7.2
+497,Who R Zoo?,7.1
+498,Kwarantined Krab,7.1
+499,Jolly Lodgers,7.1
+500,Biddy Sitting,7.1
+501,Lighthouse Louie,6.8
+502,Hiccup Plague,6.8
+503,Swamp Mates,6.9
+504,One Trick Sponge,6.9
