@@ -1,4 +1,4 @@
-# Spongebob Analysis
+# SpongeBob Analysis
 The following is an analysis of what influences the rating of a Spongebob episode.
 
 The sources for this analysis are episode transcripts from [Kaggle](https://www.kaggle.com/datasets/mikhailgaerlan/spongebob-squarepants-completed-transcripts)
