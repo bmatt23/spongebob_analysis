@@ -13,3 +13,5 @@ The notebook `line_share_analysis.ipynb` sought to investigate whether the share
 The notebook `appearance_analysis.ipynb` sought to investigate whether a particular character's appearance had an effect on the title. It also analyzed whether the word counts of a particular character were correlated with higher ratings.
 
 The notebook `flesch_score.ipynb` used the Flesch Reading Score to evaluate the complexity of the episode scripts, and then tested whether a difference in complexity made a significant impact on the rating. Furthermore, the investigation was applied to see if the way a particular character talks has an effect on the episode rating.
+
+The notebook `clustering_analysis_appearances.ipynb` goes into detail using clustering analysis to pick up on appearance trends, then examines core differences in rating between the clusters.
